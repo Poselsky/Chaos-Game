@@ -1,4 +1,4 @@
-#Chaos Game
+# Chaos Game
 
 This is very simple showcase of **fractals**. In this project you will find many different
 rulesets, which you can experiment with.
