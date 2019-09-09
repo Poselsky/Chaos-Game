@@ -10,7 +10,7 @@ Everything is fully documented.
 
 Here is simple showcase of generated video. (Every file is generated in the debug folder)
 
-![alt text](https://github.com/Poselsky/Chaos-Game/Generated.PNG)
+![alt text](./Generated.PNG)
 ___
 
 *Project has been created mainly for academic purposes (University Of Jan Evangelista Purkyně).*
