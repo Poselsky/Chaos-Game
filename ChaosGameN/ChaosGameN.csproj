@@ -55,6 +55,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChaosGame.cs" />
+    <Compile Include="ChaosRules\IChaosRuleGenerator.cs" />
+    <Compile Include="ChaosRules\NotFromSameHalfVertices.cs" />
+    <Compile Include="ChaosRules\NotLocalVertices.cs" />
+    <Compile Include="ChaosRules\NotNextVertex.cs" />
+    <Compile Include="ChaosRules\NotOppositeVertex.cs" />
+    <Compile Include="ChaosRules\NotSameVertex.cs" />
+    <Compile Include="ChaosRules\OddEvenIndex.cs" />
+    <Compile Include="ChaosRules\OppositeVertex.cs" />
+    <Compile Include="ChaosRules\Triangle.cs" />
+    <Compile Include="ExtensionMethods\PolygonExtensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
